@@ -8,11 +8,13 @@
 4 - 
 5 - 
 6 - 
-7 - 
+7 - Impressão 3d, além da própria impressora poder ser considerada um computador, é necessário que o modelo que você deseja imprimir passe pelo processo de fatiamento (transformação de um arquivo convencional de modelos 3d em um arquivo .gcode) que apenas pode ser feito em um computador externo por meio de um cartão sd.
 8 - 
 9 - 
 10 - 
-11 - 
+11 - Processador: intel core i5 de 10° geração.
+     Memória: dois cartuchos de 8gb e um de 4gb de RAM.
+     Armazenamento: um disco padrão de 1tb e um ssd com 240gb.
 12 - 
 13 - 
 14 - 
