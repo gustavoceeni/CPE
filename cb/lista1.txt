@@ -3,17 +3,24 @@
     3. software
     4. software
     5. hardware
-2 - 
-3 - 
-4 - 
-5 - 
-6 - 
+2 - Softwares são programas que executam determinadas tarefas específicas com eficiência maior.
+3 - Algoritmo é um conjunto de instruções em formato de lógica com o objetivo de realizar uma tarefa previamente planejada de um computador.
+4 - Alguns principais softwares que a indústria do entretenimento usa são o Adobe premiere e o Sony vegas, usados principalmente na edição de filmes.
+5 - Softwares que viabilizam a comunicação são os que mais facilitam a nossa vida, enquanto malwares e vírus tem o efeito contrário.
+6 - A computação está diretamente envolvida na questão de obter informações, na comunicação e no entretenimento, porém, em certos casos, ela também pode ser envolvida indiretamente, como no uso de alarmes para acordar ou na preparação de comidas.
 7 - Impressão 3d, além da própria impressora poder ser considerada um computador, é necessário que o modelo que você deseja imprimir passe pelo processo de fatiamento (transformação de um arquivo convencional de modelos 3d em um arquivo .gcode) que apenas pode ser feito em um computador externo por meio de um cartão sd.
-8 - 
+8 -
+- Google Chrome
+- Photoshop
+- Spotify
+- Ccleaner
+- Steam
+- Ultimaker cura
+- Discord
 9 - 1.Leitura
-    2.Exercício físico
-    3.
-    4.
+    2.Comer
+    3.Dormir
+    4.Exercício físico
     5.
     6.
     7.
@@ -24,9 +31,9 @@
 11 - Processador: intel core i5 de 10° geração.
      Memória: dois cartuchos de 8gb e um de 4gb de RAM.
      Armazenamento: um disco padrão de 1tb e um ssd com 240gb.
-12 - 
-13 - 
-14 - 
+12 - Para o algoritimo conseguir resolver o cubo mágico, seria necessário que o mesmo podesse identificar a diferença das cores e seu objetivo final, que é juntar cada cor em cada face do cubo, daí em diante depende da complexidade do algoritmo se o cubo terá os mesmos tipos de movimento ou não, no caso o movimento de peças por colunas ou linhas.
+13 - Bits e Bytes são formatos de medida na computação, sendo que, 1 byte é equivalente a 8 bits.
+14 - Considerando que todos os números reais podem ser transcritos ao sistema binário, é possível os representar com o uso dos valores "1" e "0", sendo que o "0" equivale a um valor nulo enquanto o "1" depende de qual casa o mesmo está se situado.
 15 -
 1º. Identificar quantas casas numéricas são necessárias para representar o número.
 > Por conta do sistema binário ser composto apenas pelos números "0" e "1", podemos fácilmente identicar o valor que cada número tem dependendo de sua casa númerica considerando que o "0" representa o valor nulo enquanto o "1" pode ter infinitos valores.
@@ -36,6 +43,8 @@
 > Dessa forma, como o nosso objetivo é converter o número "150" do sistema decimal para o binário, devemos encontrar uma certa quantidade de casas para que o mesmo se encaixe, que pode ser facilitado quando percebemos que cada casa representa a potência do número "2", sendo assim, como a segunda casa representa o próprio "2", a terceira representa o "4", a quarta o "8" e assim por diante, podemos determinar o alcance que certa quantidade de casas podem ter. Seguindo a lógica da potência de "2", o valor mais próximo de "150" seria o "128", que pode ser encontrado na 8º casa. 
 2º. Determinar o uso de "0" e "1" na expressão.
 > Após a identificação de quantas casas necessárias, precisamos adicionar valor na expressão a fim de chegar no resultado completo, que se mostra simples, tendo em vista que basta escolher os números que não excedam o valor desejado, tendo o resultado final de "10010110", em que o primeiro "1" representa "128", o segundo, "16", o terceiro, "4", e o último, "2". 128 + 16 + 4 + 2 = 150.
-16 - 
-17 - 
-18 - 
+16 - Scrum master: Agente que pode ser ativo ou passivo com o principal objetivo de facilitar a conclusão de certa atividade para o time de desenvolvimento.
+Dono do produto: Agente passivo que geralmente apenas teve a ideia do produto final ou viabilizou a iniciativa do mesmo.
+Time de desenvolvimento: Agente ativo e fundamental na tarefa, que tem o papel de criar o produto.
+17 - Como o sistema operacional é o Windows, o "prompt de comando" é o local em que as linhas de comando são digitadas, sendo que o comando para mover é "move", copiar é "copy", e remover, "remove".
+18 - Para redes WiFi o padrão IEEE é "802.11", enquanto para redes Bluetooth é "802.15".
